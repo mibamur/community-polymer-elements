@@ -1,0 +1,27 @@
+        <div class="packages layout horizontal wrap">
+          <hr style="color: black; width: 100%;" themed-reverse="" />
+          <h3 class="color:white;">Useful Links</h3>
+          <hr style="color: black; width: 100%;" themed-reverse="" />
+          <a href="https://www.materialpalette.com/" class="package flex-none"><package-tile package='{ "version": "material", "symbol": "Mp", "title": "Material Palette", "tagline": "Color Picker", "color": "#FFECB3" }'></package-tile></a>
+
+          <a class="package flex-none" href="https://polymerthemes.com/">
+            <package-tile package='{ "version": "theme", "symbol": "Th", "title": "Polymer Themes", "tagline": "Free Polymer Themes & Templates", "color": "#00BCD4" }'></package-tile>
+          </a>
+          <a class="package flex-none" href="https://customelements.io/">
+            <package-tile package='{ "version": "components", "symbol": "Ci", "title": "Customelements.io", "tagline": "Custom Web-Components catalog", "color": "#FF9800" }'></package-tile>
+          </a>
+
+
+<!--
+          <a class="package flex-none" href="http://robrez.github.io/poly-theme-builder/components/poly-theme-builder/demo/index.html">
+            <package-tile package='{ "version": "theme", "symbol": "Cc", "title": "Components Color", "tagline": "Polymer Theme Builder", "color": "#FF5252" }'></package-tile>
+          </a>
+
+    https://github.com/Polymer/designer.git
+    https://chrome.google.com/webstore/detail/polymer-devtools-extensio/mmpfaamodhhlbadloaibpocmcomledcg
+    https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk
+-->
+          <hr style="color: black; width: 100%;" themed-reverse="" />
+        </div>
+
+                <div id="guides-container">

@@ -1,0 +1,7 @@
+            <a href$="[[_packageLink(item.name)]]" is="app-link" class="package flex-none"><package-tile name$="[[item.name]]"></package-tile></a>
+            <template is="dom-if" if="{{_isMol(item.name)}}">
+              <hr style="color: black; width: 100%;" themed-reverse="" />
+              <h2 style="color: white;">Official Google Polymer Elements</h2>
+              <hr style="color: black; width: 100%;" themed-reverse="" />
+            </template>
+            

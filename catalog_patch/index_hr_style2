@@ -1,0 +1,5 @@
+          <template is="dom-repeat" items="[[packages]]">
+            <template is="dom-if" if="{{_isMol(item.name)}}">
+              <h2 style="color: white;">Community Elements</h2>
+              <hr style="color: black; width: 100%;" themed-reverse="" />
+            </template>
