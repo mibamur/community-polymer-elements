@@ -13,13 +13,13 @@ gulp serve
 
 ## Roadmap
 
-[x] - replcae GAnalitics
-[x] - Disqus
-[x] - Logo
-[x] - index.html design
-[ ] - community components
-[ ] - test
-[ ] - JSBin
-[ ] - Writing guides
-[ ] - FAQ
+ - [x] replcae GAnalitics
+ - [x] Disqus
+ - [x] Logo
+ - [x] index.html design
+ - [ ] community components
+ - [ ] test
+ - [ ] JSBin
+ - [ ] Writing guides
+ - [ ] FAQ
 
