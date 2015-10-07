@@ -13,15 +13,15 @@ gulp serve
 
 ## Roadmap
 
- - [x] replcae GAnalitics
+ - [x] replace Google Analitics
  - [x] Disqus
  - [x] Logo
- - [x] index.html design
- - [ ] community components
+ - [x] index.html ReDesign
+ - [ ] community components (search right method to add newest)
  - [ ] Test
  - [ ] JSBin
- - [ ] Writing new guides
- - [ ] FAQ
- - [ ] Extension
+ - [ ] Writing new guides, blogs, Articles
+ - [ ] FAQs, stackoverflow
+ - [ ] Example, Chrome App and other Extensions
 
 
