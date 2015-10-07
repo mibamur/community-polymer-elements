@@ -3,7 +3,7 @@
 Patches for elements.polymer-project.org
 
 
-![screen.png image][screen.png]
+![Screen](screen.png)
 
 > Requirement
 - Node.js
