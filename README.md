@@ -2,6 +2,13 @@
 
 Patch elements.polymer-project.org
 
+~~Requirement~~
+- Node.js
+- bower 
+- npm
+- sed
+- unix shell (zsh, bash, etc)
+
 ```
 git clone https://github.com/Polymer/polymer-element-catalog.git
 bower install --save 'https://github.com/mibamur/community-polymer-elements.git#master'
