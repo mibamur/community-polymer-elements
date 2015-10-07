@@ -9,8 +9,9 @@ Patch elements.polymer-project.org
 - sed
 - unix shell (zsh, bash, etc)
 
-```
+```sh
 git clone https://github.com/Polymer/polymer-element-catalog.git
+cd polymer-element-catalog/
 bower install --save 'https://github.com/mibamur/community-polymer-elements.git#master'
 bower_components/community-polymer-elements/catalog_patch/start_patch.sh
 
