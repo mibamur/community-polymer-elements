@@ -2,7 +2,7 @@
 
 Patch elements.polymer-project.org
 
-~Requirement~
+> Requirement
 - Node.js
 - bower 
 - npm
