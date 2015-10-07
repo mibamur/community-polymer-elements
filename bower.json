@@ -7,6 +7,7 @@
     "marcus7777"
   ],
   "description": "community-polymer-elements - More of these coming soon!",
+  "main": "community-polymer-elements.html",
   "keywords": [
     "web-components",
     "polymer"
@@ -20,6 +21,7 @@
     "tests"
   ],
   "dependencies": {
-    "chart-elements": "robdodson/chart-elements#master"
+    "chart-elements": "robdodson/chart-elements#master",
+    "disqus-comments": "mibamur/disqus-comments#master"
   }
 }
