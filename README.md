@@ -3,11 +3,12 @@
 Patch elements.polymer-project.org WIP
 
 ```
-git clone https://github.com/mibamur/community-polymer-elements
 git clone https://github.com/Polymer/polymer-element-catalog
-cp -rf community-polymer-elements/catalog_patch/* polymer-element-catalog/
-cd polymer-element-catalog && bower install && npm install
-run_patch.sh
+bower install --save 'https://github.com/mibamur/community-polymer-elements.git#master'
+bower install --save 'https://github.com/mibamur/disqus-comments.git#master'
+bower_components/community-polymer-elements/catalog_patch/start_patch.sh
+
+npm install
 gulp serve
 ```
 
@@ -18,8 +19,10 @@ gulp serve
  - [x] Logo
  - [x] index.html design
  - [ ] community components
- - [ ] test
+ - [ ] Test
  - [ ] JSBin
- - [ ] Writing guides
+ - [ ] Writing new guides
  - [ ] FAQ
+ - [ ] Extension
+ 
 
