@@ -11,6 +11,7 @@ cp -rf bower_components/community-polymer-elements/catalog_patch/* ./
 ./index_hr.sh
 ./index_logo.sh
 ./index_theme.sh
+node add_json.js
 
 # remove
 echo "removing"
