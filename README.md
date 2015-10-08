@@ -1,3 +1,6 @@
+Moved to https://github.com/community-polymer-elements/community-polymer-elements.git
+----------------
+
 # Community Polymer Open-Elements.org
 
 Patches for elements.polymer-project.org
@@ -15,7 +18,7 @@ Patches for elements.polymer-project.org
 ```sh
 git clone https://github.com/Polymer/polymer-element-catalog.git
 cd polymer-element-catalog/
-bower install --save 'https://github.com/mibamur/community-polymer-elements.git#master'
+bower install --save 'https://github.com/community-polymer-elements/community-polymer-elements.git#master'
 bower_components/community-polymer-elements/catalog_patch/start_patch.sh
 npm install
 gulp serve
