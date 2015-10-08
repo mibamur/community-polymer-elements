@@ -7,7 +7,7 @@ else
     sed -i 's#<a href="/"#<a style="max-width: 20rem;" href="/"#' app/elements/app-logo/app-logo.html
 
     # http://davidwalsh.name/css-filters
-    sed -i 's#alt# style="filter: grayscale(0.6) opacity(0.9) hue-rotate(120deg);" alt#' app/elements/app-logo/app-logo.html
+    sed -i 's#alt# style="filter: grayscale(0.6) opacity(0.9) hue-rotate(120deg);-webkit-filter: grayscale(0.6) opacity(0.9) hue-rotate(120deg);" alt#' app/elements/app-logo/app-logo.html
 fi
 
 
