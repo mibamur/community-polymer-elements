@@ -1,0 +1,7 @@
+
+h1.app-logo { color: #FFFFFF; }
+#topBar { background-color: #607D8B; }
+#mainPanel { background-color: #455A64; }
+#toolbar-title.app-cart { color: #FFFFFF; }
+#guides-container.page-packages h3.page-packages { color: #FFFFFF; }
+package-tile:hover #content.package-tile { box-shadow: 0px 5px 10px #212121; }

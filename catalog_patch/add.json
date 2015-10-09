@@ -1,7 +1,28 @@
-        {
-            "name": "community-polymer-elements",
-            "title": "Community Elements",
-            "color": "#354e87",
-            "symbol": "< />",
-            "tagline": "Community third-party libraries"
-        }
+{
+	"name":"development",
+	"title":"Development",
+	"color":"#cfd8dc",
+	"symbol":"< />",
+	"tagline":"Development from marcus7777 repo"
+},
+{
+	"name":"utilities",
+	"title":"Utilities",
+	"color":"#7D26CD",
+	"symbol":"Ut",
+	"tagline":"Utilities from marcus7777 repo"
+},
+{
+	"name": "polymer-third-party",
+	"title": "Community Wrappers",
+	"color": "#64B5F6",
+	"symbol": "Wr",
+	"tagline": "Community wrappers for third-party libraries"
+},
+{
+	"name": "community-polymer-elements",
+	"title": "Community Elements",
+	"color": "#354e87",
+	"symbol": "Ce",
+	"tagline": "Community elements libraries"
+}

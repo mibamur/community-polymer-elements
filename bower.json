@@ -22,6 +22,31 @@
   ],
   "dependencies": {
     "chart-elements": "robdodson/chart-elements#master",
-    "disqus-comments": "mibamur/disqus-comments#master"
+    "disqus-comments": "mibamur/disqus-comments#master",
+    "lunr-js": "marcus7777/lunr-js#master",
+    "last-fm" : "Granze/last-fm",
+    "snap-svg":"marcus7777/snap-svg#master",
+    "accounting-element":"Granze/accounting-element",
+    "voice-elements":"zenorocha/voice-elements",
+    "pubnub-polymer":"pubnub/pubnub-polymer",
+    "get-hash":"marcus7777/get-hash",
+    "geo-hash-data":"marcus7777/geo-hash-data",
+    "geohash-js":"marcus7777/geohash-js",
+    "identicon-avatar":"Granze/identicon-avatar",
+    "sortable-list":"marcus7777/sortable-list",
+    "animation-tag":"ismaelfaro/animation-tag",
+    "paper-people-list":"prateekjadhwani/paper-people-list",
+    "sweet-material-table":"pdelanauze/sweet-material-table",
+    "paper-divider":"wincinderith/paper-divider#master",
+    "paper-filter":"HackITtoday/paper-filter",
+    "vellum-selectbox":"zikes/vellum-selectbox",
+    "vellum-chip":"zikes/vellum-chip",
+    "paper-input-autocomplete":"rodo1111/paper-input-autocomplete",
+    "jv-datepicker":"motss/jv-datepicker",
+    "paper-character":"tonyedwardspz/paper-character#^1.0.5",
+    "paper-audio-player":"gorork/paper-audio-player",
+    "paper-typeahead-input":"cheonhyangzhang/paper-typeahead-input",
+    "pull-to-action":"Link2Twenty/pull-to-action",
+    "paper-fab-transitions":"GabiAxel/paper-fab-transitions"
   }
 }
